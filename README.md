@@ -4,6 +4,8 @@
 
 - 📫 How to reach me **aungaungmyomyint.aa@gmail.com**
 
+![Aung Aung Myo Myint's GitHub stats](https://github-readme-stats.vercel.app/api?username=AungAungMyoMyint&show_icons=true&theme=radical)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aung-aung-myo-myint-068a48247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aung-aung-myo-myint-068a48247/" height="30" width="40" /></a>
