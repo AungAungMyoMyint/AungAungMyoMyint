@@ -1,6 +1,6 @@
 ![Mr-Linuxer](https://github.com/AungAungMyoMyint/AungAungMyoMyint/blob/main/Zero%20Devops.jpg)
 <h1 align="center">Hi 👋, I'm Aung Aung Myo Myint</h1>
-<h3 align="center">A passionate System Engineer from Myanmar</h3>
+<h3 align="center">Linux Enthusiast</h3>
 
 - 📫 How to reach me **aungaungmyomyint.aa@gmail.com**
 
