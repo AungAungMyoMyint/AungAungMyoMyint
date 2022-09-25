@@ -2,6 +2,14 @@
 <h1 align="center">Hi 👋, I'm Aung Aung Myo Myint</h1>
 <h3 align="center">Linux Enthusiast</h3>
 
+- 🔭 I’m currently working on **Ansible Windows Workshop**
+
+- 🌱 I’m currently learning **HTML, JAVA, Python**
+
+- 📝 I regularly write articles on [Test](Test)
+
+- 💬 Ask me about **Ansible**
+
 - 📫 How to reach me **aungaungmyomyint.aa@gmail.com**
 
 ![Aung Aung Myo Myint's GitHub stats](https://github-readme-stats.vercel.app/api?username=AungAungMyoMyint&show_icons=true&theme=radical)
