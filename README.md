@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Ansible Windows Workshop**
 
-- 🌱 I’m currently learning **HTML, JAVA, Python**
+- 🌱 I’m currently learning **HTML5, JAVA, Python**
 
 - 📝 I regularly write articles on [Test](Test)
 
